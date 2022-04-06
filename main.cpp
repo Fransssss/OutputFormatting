@@ -22,7 +22,8 @@ int main() {
     double num = 0.0;
     double result ;
 
-    cout << "\nOutput-Formatting\n\nInput number to multiply by " << numToDivide << endl;
+    cout << endl << right << setw(45) << "| Output-Formatting |" << endl;
+    cout << "Input number to multiply by " << numToDivide << endl;
     cout << "Your input :\t"; cin >> num;
     result = numToDivide * num;
 
