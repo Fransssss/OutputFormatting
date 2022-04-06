@@ -13,4 +13,4 @@ Learning Goals:
 
 ![image](https://user-images.githubusercontent.com/97081479/161901578-6c253732-376d-4afb-85f9-e09ae2c2ab02.png)
 
-![image](https://user-images.githubusercontent.com/97081479/161901663-49e521b0-9ff4-4321-a840-8ce44eda5af8.png)
+![image](https://user-images.githubusercontent.com/97081479/161902111-d274a694-6874-4113-a771-586bc90e44ea.png)
