@@ -56,8 +56,8 @@ int main() {
     cout << endl;
 
     //setw(n);
-    cout << " Input before manipulation -setw(3): [ \"" << wordToManipulate << "\""  << endl;
-    cout << " Input after manipulation  -setw(8): [ \"" << setw(8) << wordToManipulate << "\""  << endl << endl;    // number '8' is just prompt, we can use any number we want
+    cout << " Input before manipulation -setw(3):  \"" << wordToManipulate << "\""  << endl;
+    cout << " Input after manipulation  -setw(8):  \"" << setw(8) << wordToManipulate << "\""  << endl << endl;    // number '8' is just prompt, we can use any number we want
 
     //setfill(*) - setw(n);
     cout << " Input before setfill(*) -setw(8): " << wordToManipulate << endl;
